@@ -22,7 +22,7 @@ Deep learning image classification pipeline for a Kaggle challenge. Achieved **9
 ML models on a severely imbalanced dataset (0.17% positive rate). Best result: **random forests, AUC (PR) = 0.87**.
 
 ### 🌌 [Fisher Matrices](https://github.com/aniket-agra/Fisher-Matrices)
-Parameter estimation for cosmological models using Fisher information matrices — applied to Supernovae observations.
+Parameter estimation for cosmological models using Fisher information matrices — applicable to Supernovae observations.
 
 ### 🌍 [Lognormal Galaxy Mocks](https://github.com/aniket-agra/lognormal-galaxies)
 Public code for generating mock simulations of galaxy distributions and analysing clustering statistics.
