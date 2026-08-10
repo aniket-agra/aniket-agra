@@ -1,6 +1,6 @@
 # Hi, I'm Aniket 👋
 
-Physics PhD turned data scientist. I build statistical models, analyse complex datasets, and write clean Python and C++.
+Physics PhD turned Patent Attorney. 
 
 ---
 
