@@ -1,6 +1,6 @@
 # Hi, I'm Aniket 👋
 
-Physics PhD turned Patent Attorney. 
+**European Patent Attorney | Computational Physicist | AI & Patent Tech Builder | Physics PhD**
 
 ---
 
