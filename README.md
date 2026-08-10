@@ -9,7 +9,6 @@ Physics PhD turned data scientist. I build statistical models, analyse complex d
 - 🎓 PhD in Physics, LMU Munich | BTech Engineering Physics, IIT Delhi
 - 🔭 Former postdoctoral researcher at the Max Planck Institute for Astrophysics and Academia Sinica Institute of Astronomy and Astrophysics
 - 📊 11+ years of Python and C++ experience; specialising in statistical modelling, Bayesian inference, and ML
-- 📍 Relocating to India
 
 ---
 
